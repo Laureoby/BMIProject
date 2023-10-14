@@ -19,24 +19,14 @@ code {
 }
 
 .app{
-  width: 30%;
-  height: 95vh;
-  border: 1px solid blue;
+  width: 60%;
+  height: 45vh;
   box-shadow: 0px 0px 12px #ccc;
   margin: auto;
+  margin-top: 100px;
 }
 
-input, button{
+input{
   margin: 12px 4px;
-}
-.btn{
-  display: block;
-  margin: auto;
-  margin-top: 15px;
-  width: 100%;
-}
-img{
-  height: 200px;
-  width: 200px;
-  border: 1px solid white;
+  width: 70%;
 }
